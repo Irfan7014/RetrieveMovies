@@ -1,0 +1,19 @@
+
+//CREATE DATABASE
+
+CREATE DATABASE movies;
+
+//CREATE TABLE
+
+CREATE TABLE movies_details (id INT NOT NULL AUTO_INCREMENT, 
+                            movie varchar(100) NOT NULL,
+                            actor varchar(100) NOT NULL, 
+                            actress varchar(100) NOT NULL, 
+                            yearOfRelease YEAR NOT NULL, 
+                            director varchar(100) NOT NULL,
+                            PRIMARY KEY (id));
+
+//INSERT TWO ROWS OF DATA
+
+insert into movies_details values (1, 'Avengers: Endgame', 'Robert Downey Jr.', 'Scarlett Johansson', '2019', 'Anthony and Joe Russo');
+insert into movies_details values (2, 'Baahubali 1', 'Rana Daggubati', 'Tamannaah', '2015', 'S.S. Rajamouli');

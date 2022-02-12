@@ -1,0 +1,303 @@
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 1
+
+Enter Movie name: Avatar
+Enter Actor's name: Sam Worthington
+Enter Actress' name: Zoe Saldana
+Enter Director's name: James Cameron
+Enter Year Of Release: 2009
+
+Movie Added Successfully
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 2
+
+Enter Movie name: The Matrix
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      The Matrix                     Keanu Reeves         Laurence Fishburne   1999  The Wachowskis      
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 2
+
+Enter Movie name: A
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Avengers: Endgame              Robert Downey Jr.    Scarlett Johansson   2019  Anthony and Joe Russo
+2      Baahubali 1                    Rana Daggubati       Tamannaah            2015  S.S. Rajamouli      
+3      Baahubali - 2                  Prabhas              Anushka Shetty       2017  S.S. Rajamouli      
+4      The Matrix                     Keanu Reeves         Laurence Fishburne   1999  The Wachowskis      
+5      Avatar                         Sam Worthington      Zoe Saldana          2009  James Cameron       
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 3
+
+Enter Actor name: Sam
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Avatar                         Sam Worthington      Zoe Saldana          2009  James Cameron       
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 3
+
+Enter Actor name: Keanu Reeves
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      The Matrix                     Keanu Reeves         Laurence Fishburne   1999  The Wachowskis      
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 4
+
+Enter Actress' name: Scarlett
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Avengers: Endgame              Robert Downey Jr.    Scarlett Johansson   2019  Anthony and Joe Russo
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 4
+
+Enter Actress' name: Anushka Shetty
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Baahubali - 2                  Prabhas              Anushka Shetty       2017  S.S. Rajamouli      
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 5
+
+Enter Actor's name: Sam
+
+Enter Actress' name: Scarlett
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Avengers: Endgame              Robert Downey Jr.    Scarlett Johansson   2019  Anthony and Joe Russo
+2      Avatar                         Sam Worthington      Zoe Saldana          2009  James Cameron       
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 6
+
+Enter Director name: James Cameron
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Avatar                         Sam Worthington      Zoe Saldana          2009  James Cameron       
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 6
+
+Enter Director name: S.S.
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Baahubali 1                    Rana Daggubati       Tamannaah            2015  S.S. Rajamouli      
+2      Baahubali - 2                  Prabhas              Anushka Shetty       2017  S.S. Rajamouli      
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 7
+
+Enter Year: 20
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Avengers: Endgame              Robert Downey Jr.    Scarlett Johansson   2019  Anthony and Joe Russo
+2      Baahubali 1                    Rana Daggubati       Tamannaah            2015  S.S. Rajamouli      
+3      Baahubali - 2                  Prabhas              Anushka Shetty       2017  S.S. Rajamouli      
+4      Avatar                         Sam Worthington      Zoe Saldana          2009  James Cameron       
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 7
+
+Enter Year: 1999
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      The Matrix                     Keanu Reeves         Laurence Fishburne   1999  The Wachowskis      
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 7
+
+Enter Year: 2015
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Baahubali 1                    Rana Daggubati       Tamannaah            2015  S.S. Rajamouli      
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 8
+
+Input String: L
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Avengers: Endgame              Robert Downey Jr.    Scarlett Johansson   2019  Anthony and Joe Russo
+2      Baahubali 1                    Rana Daggubati       Tamannaah            2015  S.S. Rajamouli      
+3      Baahubali - 2                  Prabhas              Anushka Shetty       2017  S.S. Rajamouli      
+4      The Matrix                     Keanu Reeves         Laurence Fishburne   1999  The Wachowskis      
+5      Avatar                         Sam Worthington      Zoe Saldana          2009  James Cameron       
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 9
+SR.NO. MOVIE                          ACTOR                ACTRESS              YEAR  DIRECTOR            
+1      Avengers: Endgame              Robert Downey Jr.    Scarlett Johansson   2019  Anthony and Joe Russo
+2      Baahubali 1                    Rana Daggubati       Tamannaah            2015  S.S. Rajamouli      
+3      Baahubali - 2                  Prabhas              Anushka Shetty       2017  S.S. Rajamouli      
+4      The Matrix                     Keanu Reeves         Laurence Fishburne   1999  The Wachowskis      
+5      Avatar                         Sam Worthington      Zoe Saldana          2009  James Cameron       
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 11
+
+Invalid Choice
+
+
+1. Add a movie
+2. Search a movie by movie name
+3. Search movies by actor name
+4. Search movies by actress name
+5. Search movies by Actor & Actress' Name
+6. Search movies by director name
+7. Search movies by Year Of Release
+8. Search movies by Input String
+9. Retrieve All Movie Details
+10. To Exit
+Enter your choice: 10
